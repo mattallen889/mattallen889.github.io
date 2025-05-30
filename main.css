@@ -1,0 +1,142 @@
+
+a {
+    text-decoration: none;
+     color: #0d50cd;
+    }
+   
+   img {
+   max-width: 100%;
+   
+   }
+   
+   body {
+    background-color: #aba9a9 !important;
+    color: #333;
+  }
+  
+   
+    #wrapper {
+      max-width: 940px;
+      margin: 0 auto;
+      padding: 0 5%;
+   
+    }
+   
+    h3 {
+        margin: 0 0 1em 0;
+    }
+   
+   
+   header {
+     float: left;
+     margin: 0 0 20px 0;
+     padding: 2px 0 0 0;
+     width: 100%;
+   
+   }
+   
+   .center {
+    text-align: center
+   }
+   
+   
+   #logo {
+      text-align: center;
+      margin: 0;
+   
+    }
+   
+    h1  {
+    font-family: 'Changa One', sans-serif;
+    margin: 10px 0;
+    font-size: 2.75em;
+    font-weight: normal;
+    line-height: 0.5;
+    text-align: center;
+   
+      color: #3d6d03;
+   
+    }
+   
+    h2  {
+    font-size: 2.00em;
+    font-weight: normal;
+    margin: -5px 0 0;
+      color: #571a0b;
+    }
+   
+   
+   h3  {
+       font-size: 1.1em;
+       font-weight: 700;
+       margin: 15px 0 0;
+   }
+   
+    nav {
+       text-align: center;
+       padding: 10px 0;
+       margin: 20px 0 0;
+     }
+   
+     nav ul  {
+       list-style: none;
+       margin: 0 10px;
+       padding: 0;
+   }
+   
+   nav li {
+     display: inline-block;
+   
+   }
+   
+   footer {
+    font-size: 0.85em;
+    color: #666;
+    text-align: center;
+    margin: 40px 0 20px;
+}
+   
+
+   .mydiv {background: lightblue; width:250px; height: 250px;}
+   
+   .myimage {
+       float:left;
+       width:150px;
+       height:175px;
+       margin:20px;
+       border-radius: 20px;
+   }
+   
+   .cat-photo {
+       display: block;
+       max-width: 250px;
+       margin: 0 auto 30px;
+       border-radius: 5px;
+   }
+   
+   
+   #profile-photo {
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto 30px;
+    border-radius: 5px;
+    border: 2px solid #ddd; 
+  }
+   
+     header {
+      background: #6ab47b;
+      border-color: #599a68;
+    }
+   
+   nav {
+      background: #599a6b;
+   }
+   
+   nav a, nav a:visited {
+       color: #fff;
+   }
+   
+   nav a.selected, nav a:hover {
+     color: #32673f;
+   }
